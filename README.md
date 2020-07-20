@@ -1,3 +1,4 @@
 # WeatherJS
 showing weather at area
-** service is not availabel now**
+
+**service is not availabel now**
